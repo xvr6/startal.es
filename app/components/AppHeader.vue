@@ -1,10 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <UHeader title="Star Tales">
-    
-
-  </UHeader> 
+  <UHeader title="startal.es"> </UHeader>
 </template>
 
 <style></style>

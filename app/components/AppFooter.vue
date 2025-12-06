@@ -3,7 +3,6 @@
 <template>
   <UFooter>
     <template #left>
-      <div class=""></div>
       <p>left</p>
     </template>
     <template #right>Right</template>
